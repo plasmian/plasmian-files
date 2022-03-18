@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=Qt;KDE;Utility;
+Comment=
+Exec=kfind %u
+GenericName=KFind
+Icon=kfind
+Name=Find Files/Folders
+NoDisplay=false
+OnlyShowIn=KDE;
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=org.kde.kfind
+X-DocPath=kfind/index.html
+X-KDE-StartupNotify=true
+X-KDE-SubstituteUID=false
+X-KDE-Username=

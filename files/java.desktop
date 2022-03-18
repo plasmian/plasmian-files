@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=java -jar
+MimeType=application/x-java-archive;
+Name=Run Java Archives
+NoDisplay=true
+Type=Application
+Icon=java

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Categories=Qt;KDE;Utility;
+Comment=Browse all unicode characters
+Exec=kcharselect --qwindowtitle %c
+GenericName=KCharSelect
+Icon=accessories-character-map
+Name=Character Map
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DocPath=kcharselect/index.html
+X-KDE-SubstituteUID=false
+X-KDE-Username=

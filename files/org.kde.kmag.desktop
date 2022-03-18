@@ -1,0 +1,17 @@
+[Desktop Entry]
+Categories=Qt;KDE;Utility;Accessibility;
+Comment=A screen magnification tool
+Exec=kmag
+GenericName=KMag
+Icon=kmag
+Name=Screen Magnifier
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=org.kde.kmag
+X-DocPath=kmag/index.html
+X-KDE-SubstituteUID=false
+X-KDE-Username=

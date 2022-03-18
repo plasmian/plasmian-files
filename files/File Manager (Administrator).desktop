@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=Run file manager Dolphin with pkexec
+Exec=pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY KDE_SESSION_VERSION=5 KDE_FULL_SESSION=true dbus-launch dolphin
+GenericName=Run File Manager using pkexec
+Icon=certificate-server
+Name=File Manager (Administrator)
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

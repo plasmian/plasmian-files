@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=Qt;KDE;Utility;
+Comment=Helps to clean unwanted traces the user leaves on the system and to regain disk space removing unused temporary files
+Exec=sweeper
+GenericName=Sweeper
+Icon=sweeper
+Name=System Cleaner
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=org.kde.sweeper
+X-DBUS-StartupType=Multi
+X-DocPath=
+X-KDE-StartupNotify=true
+X-KDE-SubstituteUID=false
+X-KDE-Username=

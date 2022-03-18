@@ -1,0 +1,17 @@
+[Desktop Entry]
+Categories=Qt;KDE;Utility;Accessibility;
+Comment=
+Exec=kmouth
+GenericName=KMouth Speech Synthesizer Frontend
+Icon=kmouth
+Name=Speech Synthesizer
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=org.kde.kmouth
+X-DocPath=kmouth/index.html
+X-KDE-SubstituteUID=false
+X-KDE-Username=
